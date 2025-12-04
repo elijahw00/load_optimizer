@@ -1,0 +1,6 @@
+id,revenue,loaded_miles,deadhead_miles,hours,pallets,pickup_city,dropoff_city,date,notes
+1,700,120,20,3,2,Pittsburgh,Columbus,2025-12-05,Test load 1
+2,500,60,10,2,1,Pittsburgh,Cleveland,2025-12-05,Test load 2
+3,900,180,40,4.5,3,Pittsburgh,Chicago,2025-12-05,Test load 3
+4,400,40,15,1.5,1,Pittsburgh,Erie,2025-12-05,Test load 4
+5,650,100,30,3,2,Pittsburgh,Buffalo,2025-12-05,Test load 5
